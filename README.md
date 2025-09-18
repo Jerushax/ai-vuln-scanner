@@ -52,3 +52,13 @@ We designed a **hybrid vulnerability triage system** that combines fast static s
 Here’s how our tool looks in action:
 
 ![Frontend Screenshot](frontend.png)
+## ⚙️ Backend
+
+The backend was prototyped and tested in a Kaggle environment.  
+We used:
+- Regex-based scanning
+- AI triage (Hugging Face `distilbert-base-uncased-mnli`)
+- Report generation (HTML / JSON)
+
+👉 See [scanner.ipynb](scanner.ipynb) for the backend implementation.
+
