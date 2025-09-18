@@ -1,0 +1,7 @@
+# Core dependencies
+regex
+requests
+
+# For AI integration (Hugging Face LLM usage)
+transformers
+torch
