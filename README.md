@@ -18,7 +18,7 @@ We designed a **hybrid vulnerability triage system** that combines fast static s
 1. **Regex-based pattern matching**  
    - Quickly detects common insecure practices (`eval`, `innerHTML`, string-based SQL queries, etc.).
 
-2. **Abstract Syntax Tree (AST) analysis** *(future scope)*  
+2. **Abstract Syntax Tree (AST) analysis**   
    - Provides deeper contextual understanding of the code instead of only text matching.
 
 3. **Risk Scoring System**  
