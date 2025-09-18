@@ -55,7 +55,9 @@ Here’s how our tool looks in action:
 
 ![Frontend](demo1.png)
 
-### Vulnerability Report
+![Frontend](demo1.2.png)
+
+### Downloaded Vulnerability Report
 ![Report](demo2.png)
 
 ## ⚙️ Backend
