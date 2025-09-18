@@ -52,6 +52,12 @@ We designed a **hybrid vulnerability triage system** that combines fast static s
 Here’s how our tool looks in action:
 
 ![Frontend Screenshot](frontend.png)
+
+![Frontend](demo1.png)
+
+### Vulnerability Report
+![Report](demo2.png)
+
 ## ⚙️ Backend
 
 The backend was prototyped and tested in a Kaggle environment.  
